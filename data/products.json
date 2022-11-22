@@ -1,0 +1,22 @@
+[
+  {
+    "id": "3eac9bd5-2dba-45f7-99dc-613fb627d608",
+    "timestamp": "21/11/2022, 2:44:43",
+    "name": "producto 2",
+    "description": "producto 2",
+    "code": "w4314132413431",
+    "url": "not thumbnail url",
+    "price": 5000,
+    "stock": 100
+  },
+  {
+    "id": "2765e9e9-1ac9-4a9b-a53c-6dc61419ef17",
+    "timestamp": "22/11/2022, 9:47:40",
+    "name": "producto 1",
+    "description": "producto 1",
+    "code": "w4314132413431",
+    "url": "not thumbnail url",
+    "price": 4000,
+    "stock": 1111
+  }
+]
